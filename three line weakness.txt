@@ -1,0 +1,3 @@
+Most of the datasets were singular. Without multiple datasets to confirm, these results may not hold in real world.
+Moreover, accuracy was mentioned often with no description of the dataset, making the result unreliable.
+In some cases, datasets were too small to test the capability of transformer model. Specifically, focusing on political and religious instead of the bigger picture
